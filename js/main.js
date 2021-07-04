@@ -255,7 +255,7 @@
    /* initialize
     * ------------------------------------------------------ */
     (function ssInit() {
-        ssPreloader();
+        //ssPreloader();
         ssMobileMenu();
         ssSearch();
         ssMasonry();
